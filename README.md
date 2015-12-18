@@ -1,4 +1,4 @@
 # CS7050
-Peer to peer Project
-Author Frédéric Lavaud
-Student Number 15333481
+\nPeer to peer Project
+\nAuthor Frédéric Lavaud
+\nStudent Number 15333481
